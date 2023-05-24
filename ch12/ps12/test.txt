@@ -1,0 +1,4 @@
+the  cow  under  the  table  shoots  .
+true.
+a  dead  woman  likes  he  .
+false.
